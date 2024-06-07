@@ -15,6 +15,6 @@ public class Main {
                 "Lou est pauvre.", "Lou est pauvre.","ou", "Lou est généreux.");
 
 
-        System.out.println(réponse1);
+        System.out.println(réponse5);
     }
 }
